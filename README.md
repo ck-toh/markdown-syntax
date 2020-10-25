@@ -2,7 +2,12 @@
 ## Heading2
 ### Heading3
 
-### List
+## Text Formatting
+* abcde *
+** abcde **
+~~ strikethrough~~
+
+## List
 - list1
   - list1a
      - list1a1
@@ -11,7 +16,10 @@
 1. item1
    - item1a
       - item1a1
- 
+
+- [`release-6.x`](https://github.com/deviantony/docker-elk/tree/release-6.x): 6.x series
+- [`release-5.x`](https://github.com/deviantony/docker-elk/tree/release-5.x): 5.x series (End-Of-Life)
+
 ## Tables
 |table|heading|
 |---|---|
@@ -48,12 +56,8 @@ https://gist.github.com/rxaviers/7360908
 ```
 :warning: :construction: :information_source:
 
-### Text Formatting
-* abcde *
-** abcde **
-~~ strikethrough~~
 
-- [`release-6.x`](https://github.com/deviantony/docker-elk/tree/release-6.x): 6.x series
-- [`release-5.x`](https://github.com/deviantony/docker-elk/tree/release-5.x): 5.x series (End-Of-Life)
+
+
 
 
