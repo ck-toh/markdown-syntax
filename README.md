@@ -44,9 +44,10 @@ https://github.com/codeSTACKr/codeSTACKr/readme.md
 
 basic
 ![](url-to-images)
+[text](link-to-url)
 
 nested
-[![]()](url-to-item)
+[![]()](url-linked-to-image)
 ```
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
