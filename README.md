@@ -3,16 +3,18 @@
 ### Heading3
 
 ## Text Formatting
-* abcde *
-** abcde **
-~~ strikethrough~~
+*abcde*
+**abcde**
+~~strikethrough~~
+_abcde_
+__abcde__
+~~strikethrough~~
 
 ## List
 - list1
   - list1a
      - list1a1
    
-
 1. item1
    - item1a
       - item1a1
@@ -26,7 +28,7 @@
 |item1|value1
 |item2|value2
 
-Table alignment uses `:`
+<!- Table alignment uses `:` ->
 |left|center|right|
 |:---|:---:|---:|
 |item1|value1|valuea|
