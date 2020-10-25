@@ -1,14 +1,38 @@
+# Welcome to the markdown-syntax wiki!
+[GitHub Extended Markdown](https://github.github.com/gfm/)
+
 # Heading1
 ## Heading2
 ### Heading3
+```markdown
+# Heading1
+## Heading2
+### Heading3
+```
 
 ## Text Formatting
-*abcde*
-**abcde**
+*italic1*
+**bold1**
 ~~strikethrough~~
-_abcde_
-__abcde__
+_italic2_
+__bold2__
+```markdown
+*italic1*
+**bold1**
 ~~strikethrough~~
+_italic2_
+__bold2__
+```
+## Quotes
+> _**Love your job but don't love your company, because you may not know when your company stop loving you.**_
+>                
+> Dr. APJ Abdul Kalam
+```
+> _**Love your job but don't love your company, because you may not know when your company stop loving you.**_
+>                
+> Dr. APJ Abdul Kalam
+```
+
 
 ## List
 - list1
@@ -19,8 +43,20 @@ __abcde__
    - item1a
       - item1a1
 
-- [`release-6.x`](https://github.com/deviantony/docker-elk/tree/release-6.x): 6.x series
-* [`release-5.x`](https://github.com/deviantony/docker-elk/tree/release-5.x): 5.x series (End-Of-Life)
+- [`release-0.13.5`](https://releases.hashicorp.com/terraform/0.13.5/): 0.13 series
+* [`release-0.12.29`](https://releases.hashicorp.com/terraform/0.12.29/): 0.12 series
+```
+- list1
+  - list1a
+     - list1a1
+   
+1. item1
+   - item1a
+      - item1a1
+
+- [`release-0.13.5`](https://releases.hashicorp.com/terraform/0.13.5/): 0.13 series
+* [`release-0.12.29`](https://releases.hashicorp.com/terraform/0.12.29/): 0.12 series
+```
 
 ## Tables
 |table|heading|
@@ -28,11 +64,23 @@ __abcde__
 |item1|value1
 |item2|value2
 
-<!- Table alignment uses `:` ->
+### Table alignment uses `:`
 |left|center|right|
 |:---|:---:|---:|
 |item1|value1|valuea|
 |item2|value2|valueb|
+```
+|table|heading|
+|---|---|
+|item1|value1
+|item2|value2
+
+### Table alignment uses `:`
+|left|center|right|
+|:---|:---:|---:|
+|item1|value1|valuea|
+|item2|value2|valueb|
+```
 
 ## Adding Icons, Pictures and Badges
 ```
@@ -68,11 +116,18 @@ nested
 ### Emoji
 ```
 https://gist.github.com/rxaviers/7360908
+:warning: :construction: :information_source:
 ```
 :warning: :construction: :information_source:
+---
+### footnote
 
+amazon.co.uk <sup id="a1">[1](#f1)</sup>
 
+<b id="f1">1</b> Check out [amazon](https://www.amazon.co.uk)
 
-
-
-
+```
+Git don't support this style
+Some long sentence. [^footnote]
+[^footnote]: Test, [Link](https://google.com).
+```
