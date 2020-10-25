@@ -58,13 +58,8 @@ https://github.com/codeSTACKr/codeSTACKr/readme.md
 [linkedin]:<http://www.linkedin.com>
 [instagram]:<https://www.instagram>
 
-Method 1:
+
 [ask Google1](https://www.google.com)
-
-
-Method 2:
-[ask Google2][askgoogle]
-[askgoogle]:<https://www.google.com>
 
 ### Emoji
 ```
