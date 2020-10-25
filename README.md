@@ -43,8 +43,12 @@ https://github.com/badges/shields/blob/master/doc/logos.md
 https://github.com/codeSTACKr/codeSTACKr/readme.md
 ```
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-![Terraform](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png)(https://www.terraform.io/)
 
+
+![Terraform](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png)
+
+
+![](https://techcrunch.com/wp-content/uploads/2020/10/Google-Workspace-Icons-bad.png?w=400)
 
 ## Hyerlinks
 [ask Google1](https://www.google.com)
