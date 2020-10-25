@@ -20,7 +20,7 @@ __abcde__
       - item1a1
 
 - [`release-6.x`](https://github.com/deviantony/docker-elk/tree/release-6.x): 6.x series
-- [`release-5.x`](https://github.com/deviantony/docker-elk/tree/release-5.x): 5.x series (End-Of-Life)
+* [`release-5.x`](https://github.com/deviantony/docker-elk/tree/release-5.x): 5.x series (End-Of-Life)
 
 ## Tables
 |table|heading|
