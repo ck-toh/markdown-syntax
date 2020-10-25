@@ -52,20 +52,19 @@ https://github.com/codeSTACKr/codeSTACKr/readme.md
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 [website]:<https://www.google.com>
 [youtube]:<http://www.youtube.com>
 [twitter]:<http://www.twitter.com>
 [linkedin]:<http://www.linkedin.com>
 [instagram]:<https://www.instagram>
 
-</br>
+Method 1:
 [ask Google1](https://www.google.com)
 
 
+Method 2:
 [ask Google2][askgoogle]
-
-[askgoogle]:https://www.google.com
+[askgoogle]:<https://www.google.com>
 
 ### Emoji
 ```
