@@ -47,6 +47,19 @@ __bold2__
 
 - [`release-0.13.5`](https://releases.hashicorp.com/terraform/0.13.5/): 0.13 series
 * [`release-0.12.29`](https://releases.hashicorp.com/terraform/0.12.29/): 0.12 series
+
+- [x] Completed task
+- [ ] Incomplete task
+  - [ ] Sub-task 1
+  - [x] Sub-task 2
+  - [ ] Sub-task 3
+
+1. [x] Completed task
+1. [ ] Incomplete task
+   1. [ ] Sub-task 1
+   1. [x] Sub-task 2
+
+
 ```
 - list1
   - list1a
@@ -121,6 +134,8 @@ https://gist.github.com/rxaviers/7360908
 :warning: :construction: :information_source:
 ```
 :warning: :construction: :information_source:
+
+   
 ---
 ### footnote
 
