@@ -1,6 +1,8 @@
 # Welcome to the markdown-syntax wiki!
 [GitHub Extended Markdown](https://github.github.com/gfm/)
 
+[Wiki](../../wiki/Markdown-Sytanx)
+
 # Heading1
 ## Heading2
 ### Heading3
